@@ -4,7 +4,7 @@ import "./Footer.css";
 export default function Footer() {
   return (
     <small>
-      <a href="https://github.com/EniolaCodes/weather-search.git">
+      <a href="https://github.com/EniolaCodes/weather-search-engine.git">
         Open-source code
       </a>
       {" by "}
