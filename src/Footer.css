@@ -1,0 +1,12 @@
+small {
+  color: rgba(44, 174, 186, 0.7);
+  font-size: 16px;
+}
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+a:hover {
+  text-decoration: underline;
+  color: rgba(44, 174, 186, 0.7);
+}
